@@ -6,7 +6,7 @@ Welcome to my React Projects Repository! This repository contains a collection o
 
 1. **Birthday Reminder**
     - Description: A simple React application to remind users of upcoming birthdays.
-    - [Project Folder](./birthday)
+    - [Project Folder](birthday)
 
 2. **Questions & Answers**
     - Description: A question and answer application built using React.
