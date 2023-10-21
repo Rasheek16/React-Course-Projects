@@ -6,27 +6,27 @@ Welcome to my React Projects Repository! This repository contains a collection o
 
 1. **Birthday Reminder**
     - Description: A simple React application to remind users of upcoming birthdays.
-    - [Project Folder](birthday)
+    - [Project Folder](Birthday)
 
 2. **Questions & Answers**
     - Description: A question and answer application built using React.
-    - [Project Folder](./questions)
+    - [Project Folder](Questions)
 
 3. **Reviews Showcase**
     - Description: A project for showcasing and reviewing products or services.
-    - [Project Folder](./reviews)
+    - [Project Folder](Reviews)
 
 4. **Image Slider**
     - Description: A React-based image slider component.
-    - [Project Folder](./slider)
+    - [Project Folder](Slider)
 
 5. **Tabbed Content**
     - Description: A tabbed content component created using React.
-    - [Project Folder](./tabs)
+    - [Project Folder](Tabs)
 
 6. **Tours Booking App**
     - Description: A React app for exploring and booking tours.
-    - [Project Folder](./tours)
+    - [Project Folder](Tours)
 
 7. **Restaurant Menu**
     - Description: A restaurant menu application built with React.
